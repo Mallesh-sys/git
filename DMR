@@ -1,0 +1,4 @@
+if ws-count > error count
+perform Read  para-100
+fetch 200 para
+end-id
